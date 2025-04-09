@@ -1,6 +1,6 @@
 # Multi-Purpose Calculator
 
-[**Live Demo**](https://your-demo-link.com)  
+[**Live Demo**](https://krish2248.github.io/Multi-Purpose-Calculator/)  
 
 A versatile web-based calculator application that provides multiple calculators for various purposes, such as BMI calculation, EMI calculation, car loan estimation, and more. The application also includes a light/dark mode toggle for better user experience.
 
